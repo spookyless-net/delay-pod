@@ -1,0 +1,16 @@
+{
+  "name": "delay-pod",
+  "version": "0.1.0",
+  "description": "",
+  "main": "webhook.js",
+  "scripts": {
+    "start": "node webhook.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
